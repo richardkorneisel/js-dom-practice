@@ -28,9 +28,7 @@ The second set of DOM getters we'll talk about are `querySelector` and
 prompts.
 
 ## 3. Updating DOM Content
-
-Use the following methods of DOM nodes to update the content of the DOM:
-
+Use the following Node Element properties to update the contents of the DOM:
 * `innerHTML`
 * `outerHTML`
 * `innerText`
@@ -47,7 +45,6 @@ node:
 1. `.toggleClass()`
 
 ## 5. Working with `data-*` Attributes
-
 Use the `data-*` attribute to add data to a DOM node. You can get that data in
 JavaScript with a node's `dataset` property.
 
